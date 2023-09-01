@@ -1,0 +1,14 @@
+D:\Dracco\Paradigma\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.exe
+D:\Dracco\Paradigma\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.deps.json
+D:\Dracco\Paradigma\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.runtimeconfig.json
+D:\Dracco\Paradigma\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.runtimeconfig.dev.json
+D:\Dracco\Paradigma\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.dll
+D:\Dracco\Paradigma\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.pdb
+D:\Dracco\Paradigma\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.csproj.AssemblyReference.cache
+D:\Dracco\Paradigma\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dracco\Paradigma\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.AssemblyInfoInputs.cache
+D:\Dracco\Paradigma\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.AssemblyInfo.cs
+D:\Dracco\Paradigma\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.csproj.CoreCompileInputs.cache
+D:\Dracco\Paradigma\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.dll
+D:\Dracco\Paradigma\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.pdb
+D:\Dracco\Paradigma\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.genruntimeconfig.cache
